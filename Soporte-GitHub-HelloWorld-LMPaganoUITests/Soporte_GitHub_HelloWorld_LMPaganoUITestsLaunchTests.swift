@@ -1,13 +1,13 @@
 //
-//  Support_GitHub_HelloWorldUITestsLaunchTests.swift
-//  Support-GitHub-HelloWorldUITests
+//  Soporte_GitHub_HelloWorld_LMPaganoUITestsLaunchTests.swift
+//  Soporte-GitHub-HelloWorld-LMPaganoUITests
 //
-//  Created by Ignasi Perez-Valls on 10/7/23.
+//  Created by Pagano Leandro Manuel on 10/7/23.
 //
 
 import XCTest
 
-final class Support_GitHub_HelloWorldUITestsLaunchTests: XCTestCase {
+final class Soporte_GitHub_HelloWorld_LMPaganoUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
